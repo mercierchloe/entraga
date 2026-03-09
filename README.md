@@ -11,5 +11,6 @@
 
 -Juan Francisco Buttazzoni <https://github.com/Juanfra04/Modulo_1>
 
+-Lucas Baena <https://github.com/Lucasbaena/Modulo_1>
 
 ---
