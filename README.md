@@ -1,5 +1,5 @@
 # Entrega
-<img width="1536" height="1024" alt="ChatGPT Image 11 mar 2026, 07_57_59 p m  (1)" src="https://github.com/user-attachments/assets/8cb8474c-619b-4032-9829-dd3605e91e7d" />
+<img width="768" height="512" alt="ChatGPT Image 11 mar 2026, 07_57_59 p m  (1)" src="https://github.com/user-attachments/assets/8cb8474c-619b-4032-9829-dd3605e91e7d" />
 
 ## **Grupo: Les chats**
 
