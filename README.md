@@ -20,7 +20,7 @@
 
 -CV Cotignola Andrés
 
-<img width="550" height="600" alt="ChatGPT Image 11 mar 2026, 07_57_59 p m  (1)" src="CV_Andrés_Cotignola_page-0001.jpg" />
+<img width="550" height="600" alt="ChatGPT Image 11 mar 2026, 07_57_59 p m  (1)" src="CV_Andrés_Cotignola (1)_page-0001 (1).jpg" />
 
 
 ---
