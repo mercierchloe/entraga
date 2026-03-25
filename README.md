@@ -16,4 +16,9 @@
 |Chloé|Mercier|chloemercier0806@outlook.com|+33 782720262|https://github.com/mercierchloe/modulo_1|
 |Lucas|Baena|lucasbaena@gmail.com|2615432482|https://github.com/Lucasbaena/Modulo_1|
 
+-Curriculum Vitae de cada integrante
+
+<img width="768" height="512" alt="ChatGPT Image 11 mar 2026, 07_57_59 p m  (1)" src="CV_Andrés_Cotignola_page-0001.jpg" />
+
+
 ---
