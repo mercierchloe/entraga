@@ -24,9 +24,9 @@
 
 - CV Buttazzoni Juan Francisco
 
+[![Vista previa de mi documento](CV_Juan_francisco_Buttazzoni_LaTex_page-0001.jpg)](CV_Juan_francisco_Buttazzoni_LaTex.pdf)
 
-CV_Juan_francisco_Buttazzoni_LaTex_page-0001
-
+[![Vista previa de mi documento](CV_Juan_francisco_Buttazzoni_LaTex_page-0002.jpg)](CV_Juan_francisco_Buttazzoni_LaTex.pdf)
 
 
 
