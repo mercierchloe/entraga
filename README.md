@@ -16,13 +16,19 @@
 |Chloé|Mercier|chloemercier0806@outlook.com|+33 782720262|https://github.com/mercierchloe/modulo_1|
 |Lucas|Baena|lucasbaena@gmail.com|2615432482|https://github.com/Lucasbaena/Modulo_1|
 
--Curriculum Vitae de cada integrante
+### Curriculum Vitae de cada integrante
 
--CV Cotignola Andrés
+- CV Cotignola Andrés
 
 <img width="550" height="600" alt="ChatGPT Image 11 mar 2026, 07_57_59 p m  (1)" src="CV_Andrés_Cotignola (1)_page-0001 (1).jpg" />
 
--CV Buttazzoni Juan Francisco
+- CV Buttazzoni Juan Francisco
 
-<src="CV_Juan_francisco_Buttazzoni_LaTex.pdf" />
+
+CV_Juan_francisco_Buttazzoni_LaTex_page-0001
+
+
+
+
+
 ---
