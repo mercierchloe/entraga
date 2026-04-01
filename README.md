@@ -31,7 +31,7 @@
 - CV Baena Lucas
 [![Vista previa de mi documento](CVs/CV_Lucas_Baena_page-0001.jpg)](CVs/CV_Lucas_Baena.pdf)
 - CV Avallone Francisco
-[![Vista previa de mi documento](CVs/CV tecnicas y herramientas modernas_page-0001.jpg)](CVs/CV tecnicas y herramientas modernas.pdf)
+[![Vista previa de mi documento](CVs/CV_tecnicas_y_herramientas_modernas_page-0001.jpg)](CVs/CV_tecnicas_y_herramientas_modernas.pdf)
 
   
 
