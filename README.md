@@ -38,7 +38,8 @@
 - CV Bevacqua Valentina 
 [![Vista previa de mi documento](CVs/A_Customised_CurVe_CV_page-0001.jpg)]  
 
-
+- CV Mercier Chloé
+[![Vista previa de mi documento](CVs/CV_Mercier_Chloé.pdf)]
 
 
 
